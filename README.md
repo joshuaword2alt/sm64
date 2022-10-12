@@ -1,7 +1,7 @@
 # Super Mario 64
 
-here's the [rom](https://vimm.net/vault/2764)
-here's the second backup [rom](https://archive.org/details/super-mario-64-usa)
+* here's the [rom](https://vimm.net/vault/2764)
+* here's the second backup [rom](https://archive.org/details/super-mario-64-usa)
 
 - This repo contains a full decompilation of Super Mario 64 (J), (U), (E), and (SH).
 - Naming and documentation of the source code and data structures are in progress.
